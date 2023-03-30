@@ -1,5 +1,6 @@
-# ML_from_Scratch
-Trying to implement basic ml algorithms from scratch in python. I have also made videos explaining these algorithms...
+# machine Learning from Scartch
+Trying to implement basic ml algorithms from scratch in python.. if you need any help, please contact with my email 
+babbulcseian@gmail.com
 
 ## Gradient Descent
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/36zkIAAUcZ4/mqdefault.jpg)](https://youtu.be/36zkIAAUcZ4)
@@ -45,5 +46,5 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
   Creators:  
   Thomas F. Brooks, D. Stuart Pope and Michael A. Marcolini  
   NASA
-  
+  The dataset has been collected from kaggle
 - Breast_cancer_data.csv (taken from https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset) 
